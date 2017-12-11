@@ -1,0 +1,5 @@
+USE DataBase1;
+
+#TASK 5
+ALTER TABLE Faculty
+MODIFY COLUMN deptid int NOT NULL;
