@@ -2,6 +2,7 @@
 # Lab 07 : Complex Queries in SQL
 
 ## Files Required
+These files are provided in the directory : *Downloaded Files*
 * ProductionDDL.sql
 * laptop.rtf
 * pc.rtf
