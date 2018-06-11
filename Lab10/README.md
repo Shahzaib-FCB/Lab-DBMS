@@ -10,13 +10,13 @@ The Final Document is given in the *Final Document.pdf*
 
 ## Lab Tasks
 1. Create a view named “CSstudents” that retrieve all students whose major is “Computer Science”.
-	a. Retrieve age of the oldest student whose major is “Compter Science”.
-	b. Find the name and age of the oldest student whose major = “Computer Science”
-	c. Find the names, majors and ages of all juniors (Level = JR) who are enrolled in a class taught by Ivana Teach in “Computer Science” major.
-	d. Find the names of faculty members and their departments, classes and room number which they teaching in “Computer Science” major.
+	1. Retrieve age of the oldest student whose major is “Compter Science”.
+	2. Find the name and age of the oldest student whose major = “Computer Science”
+	3. Find the names, majors and ages of all juniors (Level = JR) who are enrolled in a class taught by Ivana Teach in “Computer Science” major.
+	4. Find the names of faculty members and their departments, classes and room number which they teaching in “Computer Science” major.
 2. Define a view “ElderStudents” that retrieve oldest students in each major.
-	a. Find the names of classes and their rooms where elder students are studying.
-	b. Find name of major and age of student who includes the eldest student.
+	1. Find the names of classes and their rooms where elder students are studying.
+	2. Find name of major and age of student who includes the eldest student.
 3. Define a view “EnrolledStudents” that retrieve students who are enrolled for a class.
 4. Find the names of all students who are enrolled in two classes that meet at the same time.
 5. Redefine the above query with “EnrolledStudents”.
