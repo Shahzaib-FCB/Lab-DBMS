@@ -31,7 +31,7 @@
 		</table>		
 	</li>
 	<li>
-		Add the following data to *Class* table created in Task 2
+		Add the following data to <em>Class</em> table created in Task 2
 		<table>
 			<tr>
 				<th>Student_name</th>
