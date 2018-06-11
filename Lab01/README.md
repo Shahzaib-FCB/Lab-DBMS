@@ -3,10 +3,10 @@
 ## Tasks
 <ol>
 	<li>
-		Create a sample database named “*Software_Engineering*” using MySQLWorkbench.
+		Create a sample database named <em>Software_Engineering</em> using MySQLWorkbench.
 	</li>
 	<li>
-		Add table “*Class*” to “Software_Engineering” database created in Task 1 and set the following fields as:
+		Add table <em>Class</em> to <em>Software_Engineering</em> database created in Task 1 and set the following fields as:
 		<table>
 			<tr>
 				<th>Column Name</th>
