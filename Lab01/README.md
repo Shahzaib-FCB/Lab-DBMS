@@ -1,6 +1,6 @@
 # Lab 01 : Getting Fimiliar with MySQL Workbench
 
-## Tasks
+## Lab Tasks
 <ol>
 	<li>
 		Create a sample database named <em>Software_Engineering</em> using MySQLWorkbench.

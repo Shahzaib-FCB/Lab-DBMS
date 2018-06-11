@@ -1,6 +1,6 @@
 # Lab 02 : Using Sakila Database
 
-## Task
+## Lab Tasks
 Formulate SQL queries for the following needs and execute them on Sakila database.
 1. Retrieve first and last name of actors who played in AFRICAN EGG.
 2. Retrieve actor id and their names with their addresses.
