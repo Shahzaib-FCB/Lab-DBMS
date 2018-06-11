@@ -1,9 +1,9 @@
 # Lab 08 : SQL Logical Operators & Single Row Functions
 
 ## Schema
-<strong>Student</strong> (__snum__: integer, sname: char(30), major: char(25), level: char(2), age: integer)
-<strong>Faculty</strong> (__fid__: integer, fname: char(30), deptid: integer)
-<strong>Class</strong> (__cname__: char(40), meets_at: char(20), room: char(10), fid: integer | fid REFS Faculty.fid)
+<strong>Student</strong> (__snum__: integer, sname: char(30), major: char(25), level: char(2), age: integer)\
+<strong>Faculty</strong> (__fid__: integer, fname: char(30), deptid: integer)\
+<strong>Class</strong> (__cname__: char(40), meets_at: char(20), room: char(10), fid: integer | fid REFS Faculty.fid)\
 <strong>Enrolled</strong> (__snum__: integer, __cname__: char(40) | snum REFS student.snum, cname REFS class.name)
 
 ## Lab Tasks
