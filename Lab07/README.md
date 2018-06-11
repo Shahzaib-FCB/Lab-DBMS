@@ -13,16 +13,16 @@
 	1. ``select avg(price) from pc; ``\
 		1507.3333
 	2. ``select sum(price), ramsize from pc group by ramsize; ``\
-		4295 | 64\
+		4295 &nbsp;&nbsp;| 64\
 		11294 | 128\
-		4618 | 256
+		4618 &nbsp;&nbsp;| 256
 	3. ``select model, hdsize from pc where hdsize in (select max(hdsize) from pc);``\
 		1007 | 80\
 		1009 | 80
 	4. ``select ramsize, min(price) from laptop group by ramsize;``\
-		32 | 999\
-		64 | 1148\
-		96 | 2584\
+		32 &nbsp;&nbsp;| 999\
+		64 &nbsp;&nbsp;| 1148\
+		96 &nbsp;&nbsp;| 2584\
 		128 | 3099\
 		256 | 2599
 	5. Execute this
@@ -59,7 +59,7 @@ query.
 		B) 1006\
 		C) 1007\
 		D) 1009\
-		D) 1011\
+		D) 1011
 	6. Print model, speed, and price of those PCs whose prices are same.\
 		1012 | 350 &nbsp; | 64 &nbsp;&nbsp;| 799\
 		1013 | 733 &nbsp; | 256 | 2499\
